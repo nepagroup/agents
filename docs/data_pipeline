@@ -1,1 +1,15 @@
 
+data_in
+  sources:
+    erp_database:
+    emails: supply@nepawholesale.com 
+    sms: 
+    whatsapp: 
+
+data_out
+  app: 
+    streamlit
+    webapp
+
+
+
