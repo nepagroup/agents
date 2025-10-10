@@ -143,10 +143,10 @@
           <mxGeometry x="3142" y="534" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XLbBlb3vAGB-y3zwwubN-2" value="nexa.supply" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="3142" y="699" width="160" height="80" as="geometry" />
+          <mxGeometry x="3021" y="678" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XLbBlb3vAGB-y3zwwubN-3" value="nexa.demand" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="3385" y="699" width="160" height="80" as="geometry" />
+          <mxGeometry x="3264" y="678" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
